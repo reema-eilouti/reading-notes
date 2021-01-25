@@ -11,9 +11,9 @@ This is a table of contents to some of the resources I read:
 
 Number | Link
 ------------ | -------------
-1. | [Basics of MD]([github.com/reema-eilouti/reading-notes](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax))
-2. | [Review Cheatsheet]([github.com/reema-eilouti/reading-notes](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf))
-3. | [A Little more details]([github.com/reema-eilouti/reading-notes](https://guides.github.com/features/mastering-markdown/))
+1) | [Basics of MD]([github.com/reema-eilouti/reading-notes](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax))
+2) | [Review Cheatsheet]([github.com/reema-eilouti/reading-notes](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf))
+3) | [A Little more details]([github.com/reema-eilouti/reading-notes](https://guides.github.com/features/mastering-markdown/))
 
 
 
