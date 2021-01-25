@@ -6,6 +6,10 @@ Learning Markdown
 During the process of making this repo I learned the basics of writing MD files and applied it here.    
 
 
+### To know more about the basics of git/github go to this sub-page:
+[What is Git/GitHub](https://www.github.com/reema-eilouti/reading-notes/git_github) 
+
+
 ## Tables
 This is a table of contents to some of the resources I read:
 
