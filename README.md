@@ -7,7 +7,7 @@ During the process of making this repo I learned the basics of writing MD files 
 
 
 ### To know more about the basics of git/github go to this sub-page:
-[What is Git/GitHub](https://www.github.com/reema-eilouti/reading-notes/git_github.md) 
+[What is Git/GitHub](reading-notes/../git_github.md) 
 
 
 ## Tables
