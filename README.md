@@ -45,4 +45,4 @@ I always use `git status` before every git command.
 
 
 ## Links
-This README.md file is with my repo [reading-notes](github.com/reema-eilouti/reading-notes)
+This README.md file is in my repo [reading-notes](github.com/reema-eilouti/reading-notes)
