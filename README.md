@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# reading-notes
+Learning Markdown 
 
-You can use the [editor on GitHub](https://github.com/reema-eilouti/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Learning MD on GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the process of making this repo I learned the basics of writing MD files and applied it here.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Headings
+typing ' # ' one or more times before a title/heading controls the size of it.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Listing
+* Adding a ' * ' before a list item adds a bullet point.
+  * If you tabbed in then used the ' * ' then it'll be a nested list item and will show up as empty bullet point.
+  
+  
+## Styling
+**Adding two ' * ' before and after a word/sentence will make it bold.**
 
-1. Numbered
-2. List
+*Adding one ' * ' before and after a word/sentence will make it italic.*
 
-**Bold** and _Italic_ and `Code` text
+~~Adding two ' ~ ' before and after a word/sentence will strikethough it.~~
 
-[Link](url) and ![Image](src)
+### Nested Styling
+**This text is not all _italic_ but bold**
+
+***This text is all in italic and bold***
+
+
+## Quoting
+If I am quoting text I can add ' > ' before it like:
+> "This is fun!"
+-Reema
+
+If I am quoting a code I can use triple backticks to format it into a block
 ```
+# Python Code
+print("Hello, World!")
+```
+or a single backtick to use within a sentence like:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I always use `git status` before every git command.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reema-eilouti/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Links
+This README.md file is with my repo [reading-notes](github.com/reema-eilouti/reading-notes)
