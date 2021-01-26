@@ -4,7 +4,7 @@ During the process of making this repo I learned the basics of writing MD files,
 
 ## Table of Contents
 
-# | Link
+Num | Link
 ------------ | -------------
 1 | [What is Markdown](reading-notes/../markdown.md) 
 2 | [What is Git/GitHub](reading-notes/../git_github.md) 
