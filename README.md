@@ -9,6 +9,9 @@ During the process of making this repo I learned the basics of writing MD files 
 ### To know more about the basics of git/github go to this sub-page:
 [What is Git/GitHub](reading-notes/../git_github.md) 
 
+### To know more about the basics of HTML/CSS go to this sub-page:
+[What is HTML/CSS](reading-notes/../html_css.md) 
+
 
 ## Tables
 This is a table of contents to some of the resources I read:
