@@ -1,4 +1,4 @@
-# reading-notes
+# My Reading Notes
 
 During the process of making this repo I learned the basics of writing MD files, HTML/CSS and Git/Github.    
 
@@ -6,7 +6,7 @@ During the process of making this repo I learned the basics of writing MD files,
 
 Num | Link
 ------------ | -------------
-1 | [What is Markdown](reading-notes/../markdown.md) 
+1 | [What is Markdown](markdown.md) 
 2 | [What is Git/GitHub](reading-notes/../git_github.md) 
 3 | [What is HTML/CSS](reading-notes/../html_css.md) 
 
