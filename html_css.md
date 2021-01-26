@@ -30,3 +30,13 @@ This separation can improve content accessibility, provide more flexibility and 
     </body>
 </html>
 ```
+
+### Main Structure Tags
+
+1. The first tag that needs to be included in your *HTML* file isL `<html></html>`
+    - This tag 
+2. The second tags written within the first tag are: `<head></head>` and `<body></body>`
+    - The `<head>` element contains information about the page (**not** shown within the main part of the browser window).
+    - Everything inside the `<body>` element is shown inside the main browser window.
+3. Within the *head* tag we add: `<title></title>`
+    - The contents of the `<title>` element are shown on the tab headline of your page in your browser.
