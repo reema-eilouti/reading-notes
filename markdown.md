@@ -1,6 +1,6 @@
 # What is MarkDown
 
-##### [Go Back Home](README.md)
+
 
 ## Headings
 typing ' # ' one or more times before a title/heading controls the size of it.  
@@ -37,3 +37,5 @@ print("Hello, World!")
 or a single backtick to use within a sentence like:
 
 I always use `git status` before every git command.  
+
+##### [Go Back Home](README.md)
