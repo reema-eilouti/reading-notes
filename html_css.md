@@ -75,4 +75,4 @@ This will give the text a background color on the webpage.
 
 
 ## Example
-You can view a simple HTML/CSS Webpage here: [Index](reading-notes/../html_css_example.html)
+You can view a simple HTML/CSS Webpage here: [Index](html_css_example.html)
