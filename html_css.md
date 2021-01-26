@@ -69,4 +69,10 @@ Here, the attribute `style` has a *property* `background-color` and its value is
 This will give the text a background color on the webpage.
 
 ### Other Properties
-- 
+- `style="text-align:center;"`
+- `style="width:200px;"`
+- `alt="logo of html and css"`
+
+
+## Example
+You can view a simple HTML/CSS Webpage here: [Index](reading-notes/../index.html)
