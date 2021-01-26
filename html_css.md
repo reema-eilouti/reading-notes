@@ -33,10 +33,33 @@ This separation can improve content accessibility, provide more flexibility and 
 
 ### Main Structure Tags
 
-1. The first tag that needs to be included in your *HTML* file isL `<html></html>`
-    - This tag 
-2. The second tags written within the first tag are: `<head></head>` and `<body></body>`
+1. The first tag that needs to be included in your *HTML* file is:
+    **`<html></html>`**
+    - This tag is the root tag, it contains all of the *HTML* content of the webpage.
+2. The second tags written within the first tag are: 
+   **`<head></head>`** and **`<body></body>`**
     - The `<head>` element contains information about the page (**not** shown within the main part of the browser window).
     - Everything inside the `<body>` element is shown inside the main browser window.
-3. Within the *head* tag we add: `<title></title>`
+3. Within the *head* tag we add: 
+   **`<title></title>`**
     - The contents of the `<title>` element are shown on the tab headline of your page in your browser.
+
+
+### Other Tags
+
+- `<h1></h1>`
+    * This tag is used for the title of a page or post. The formatting of an h1 will make its content bold and big. 
+      Going up in the numbers like (h2, h3, h4, h5, h6) will make content smaller.
+- `<p></p>`
+    * This tag is used to write paragraphs in.
+- `<div></div>`
+    * This element allows you to group a set of elements together in one block-level box.
+
+
+### Using Styling
+Each **_CSS Rule_** contains a *property* and a *value*.
+This is how we add CSS Rules to our HTML elements:
+
+```
+
+```
