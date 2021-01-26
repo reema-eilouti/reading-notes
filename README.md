@@ -12,7 +12,3 @@ Num | Link
 
 
 You can view my full repository here: [reading-notes_repo](https://www.github.com/reema-eilouti/reading-notes)
-
-#### My class mate Sajeda and I created two websites together, you can view them here:
-* [Sajeda's Webpage](https://sajeda-araidah.github.io/reading-notes/)
-* [My Webpage](html_css_example.html)
