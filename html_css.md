@@ -61,5 +61,12 @@ Each **_CSS Rule_** contains a *property* and a *value*.
 This is how we add CSS Rules to our HTML elements:
 
 ```
+<h1 style="background-color:Blue;">Hello, World.</h1>
 
+<p style="background-color:Red;">Hey, everyone!</p>
 ```
+Here, the attribute `style` has a *property* `background-color` and its value is `Red`.
+This will give the text a background color on the webpage.
+
+### Other Properties
+- 
