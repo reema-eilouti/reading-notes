@@ -42,6 +42,25 @@ var lastName = "Johnson";                      // String
 var x = {firstName:"John", lastName:"Doe"};    // Object
 var cars = ["Saab", "Volvo", "BMW"];           // Array
 ```
-also, Booleans: `(5 == 5) // Returns true` `(x == z)// Returns false`
+also, Booleans: 
+```
+(5 == 5)       // Returns true
+(4 == 5)       // Returns false
+```
+
+
+## JavaScript Events
+HTML events are "things" that happen to HTML elements.
+When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+
+Here are some examples of HTML events:
+- An HTML web page has finished loading
+- An HTML input field was changed
+- An HTML button was clicked
+
+Example:
+```
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+```
 
 ##### [Go Back Home](README.md)
