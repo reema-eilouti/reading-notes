@@ -27,5 +27,21 @@ Although there are similarities between *JavaScript* and *Java*, including langu
     - Examples: firstName, lastName, masterCard, interCity
   
 - **JS Output**
+    - Writing into an HTML element, using `innerHTML`
+    - Writing into the HTML output using `document.write()`
+    - Writing into an alert box, using `window.alert()`
+    - Writing into the browser console, using `console.log()`
+  
+- **Change HTML Content**
+    - `document.getElementById("demo").innerHTML = "Hello JavaScript";`
+
+- **Data Types**
+```
+var length = 16;                               // Number
+var lastName = "Johnson";                      // String
+var x = {firstName:"John", lastName:"Doe"};    // Object
+var cars = ["Saab", "Volvo", "BMW"];           // Array
+```
+also, Booleans: `(5 == 5) // Returns true` `(x == z)// Returns false`
 
 ##### [Go Back Home](README.md)
