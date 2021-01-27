@@ -74,7 +74,4 @@ This will give the text a background color on the webpage.
 - `alt="logo of html and css"`
 
 
-## Example
-You can view a simple HTML/CSS Webpage here: [Index](html_css_example.html)
-
 ##### [Go Back Home](README.md)
