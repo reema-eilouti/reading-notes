@@ -5,6 +5,8 @@ Continuing about **_JavaScript_** Syntax, this is how loops in code are represen
 ## JavaScript Loops
 
 - **For Loop**
+Loops can execute a block of code a number of times.
+
   - **_for (statement 1; statement 2; statement 3) { // code block to be executed }_**
     
   - _Statement 1_ is executed (one time) before the execution of the code block.
@@ -22,7 +24,9 @@ for (i = 0; i < 5; i++)
 
 
 - **While Loop**
-    - **_while (condition) { // code block to be executed }_**
+Loops can execute a block of code as long as a specified condition is true.
+
+  - **_while (condition) { // code block to be executed }_**
 
 ```
 while (i < 10) {
