@@ -5,16 +5,15 @@ Continuing about **_JavaScript_** Syntax, this is how loops in code are represen
 ## JavaScript Loops
 
 - **For Loop**
-  - for (statement 1; statement 2; statement 3)
-    {
-        // code block to be executed
-    }
+  - *for (statement 1; statement 2; statement 3){*
+_// code block to be executed_
+_}_
     
-      - Statement 1 is executed (one time) before the execution of the code block.
+  - _Statement 1_ is executed (one time) before the execution of the code block.
 
-      - Statement 2 defines the condition for executing the code block.
+  - _Statement 2_ defines the condition for executing the code block.
 
-      - Statement 3 is executed (every time) after the code block has been executed.
+  - _Statement 3_ is executed (every time) after the code block has been executed.
 
 ```
 for (i = 0; i < 5; i++) 
