@@ -5,9 +5,7 @@ Continuing about **_JavaScript_** Syntax, this is how loops in code are represen
 ## JavaScript Loops
 
 - **For Loop**
-  - *for (statement 1; statement 2; statement 3){*
-_// code block to be executed_
-_}_
+  - **_for (statement 1; statement 2; statement 3) { // code block to be executed }_**
     
   - _Statement 1_ is executed (one time) before the execution of the code block.
 
@@ -23,9 +21,15 @@ for (i = 0; i < 5; i++)
 ```
 
 
-
-
 - **While Loop**
+    - **_while (condition) { // code block to be executed }_**
+
+```
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
+}
+```
  
 
 
