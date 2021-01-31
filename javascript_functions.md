@@ -54,7 +54,8 @@ var x = myFunction(4, 3);   // Function is called, return value will end up in x
 ```
 x = 12
 
-**_Important Note:_** > Accessing a function without () will return the function object instead of the function result.
+**_Important Note:_** 
+> Accessing a function without () will return the function object instead of the function result.
 
 
 
