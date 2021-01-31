@@ -7,7 +7,7 @@
 *CSS* is designed to enable the separation of presentation and content, including layout, colors, and fonts. 
 This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics.
 
-This was reviewed in [What is HTML/CSS](html_css.md)
+This was reviewed in [What is HTML/CSS](html_css.md).
 Now, I'll add more details. 
 
 ### Ways to Insert CSS
