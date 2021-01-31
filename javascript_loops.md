@@ -1,4 +1,4 @@
-# What is JavaScript Loops
+# What is: JavaScript Loops
 
 Continuing about **_JavaScript_** Syntax, this is how loops in code are represented:
 

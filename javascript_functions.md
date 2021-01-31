@@ -1,4 +1,4 @@
-# What is JavaScript Functions
+# What is: JavaScript Functions
 
 
 

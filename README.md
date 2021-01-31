@@ -12,5 +12,5 @@ Num | Link
 3 | [What is HTML/CSS](html_css.md) 
 4 | [What is CSS](css.md)
 5 | [What is JavaScript](javascript.md) 
-6 | [What is JavaScript Loops](javascript_loops.md) 
-7 | [What is JavaScript Functions](javascript_functions.md) 
+6 | [What is: JavaScript Loops](javascript_loops.md) 
+7 | [What is: JavaScript Functions](javascript_functions.md) 
