@@ -7,10 +7,5 @@ During the process of making this repo I learned the basics of writing MD files.
 
 Num | Link
 ------------ | -------------
-1 | [What is Markdown](markdown.md) 
-2 | [What is Git/GitHub](git_github.md) 
-3 | [What is HTML/CSS](html_css.md) 
-4 | [What is CSS](css.md)
-5 | [What is JavaScript](javascript.md) 
-6 | [What is: JavaScript Loops](javascript_loops.md) 
-7 | [What is: JavaScript Functions](javascript_functions.md) 
+1 | [Code 101 and 102 Reading Notes](code_101_and_102_reading_notes.md)
+2 | [Code 201 Reading Notes](code_201_reading_notes.md)
