@@ -26,4 +26,4 @@ git push
 found this while reading online and it made me laugh out loud :D
 ![In_case_of_fire_git_push_first](In_case_of_fire_git_push_first.jpg)
 
-##### [Go Back Home](README.md)
+##### [Go Back](code_101_and_102_reading_notes.md)

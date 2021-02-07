@@ -63,4 +63,4 @@ Example:
 <button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
 ```
 
-##### [Go Back Home](README.md)
+##### [Go Back](code_101_and_102_reading_notes.md)

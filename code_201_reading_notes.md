@@ -6,7 +6,7 @@ These are my reading notes for 201
 
 Num | Link
 ------------ | -------------
-1 | [Day 1]() 
+1 | [Day 1](class-01.md) 
 2 | [Day 2]() 
 3 | [Day 3]() 
 4 | [Day 4]()
@@ -22,3 +22,4 @@ Num | Link
 14 | [Day 14]() 
 15 | [Day 15]() 
 
+##### [Go Back Home](README.md)

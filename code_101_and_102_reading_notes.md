@@ -14,3 +14,5 @@ Num | Link
 5 | [What is JavaScript](javascript.md) 
 6 | [What is: JavaScript Loops](javascript_loops.md) 
 7 | [What is: JavaScript Functions](javascript_functions.md) 
+
+##### [Go Back Home](README.md)
