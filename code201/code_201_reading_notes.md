@@ -4,7 +4,7 @@ These are my reading notes for 201
 
 ## Table of Contents
 
-Num | Link
+Day | Notes
 ------------ | -------------
 Day 1 | [class-01](class-01.md) 
 Day 2 | [class-02](class-02.md) 
