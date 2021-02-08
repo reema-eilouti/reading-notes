@@ -19,7 +19,7 @@ Day 10 | [class-10](class-10.md)
 Day 11 | [class-11](class-11.md) 
 Day 12 | [class-12](class-12.md)
 Day 13 | [class-13](class-13.md) 
-Day 14 | [class-14](class-14.md) 
-Day 15 | [class-15](class-15.md) 
+Day 14 | [class-14a](class-14a.md), [class-14b](class-14b.md) 
+
 
 ##### [Go Back Home](./../README.md)
