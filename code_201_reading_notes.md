@@ -8,7 +8,7 @@ Num | Link
 ------------ | -------------
 Day 1 | [class-01](class-01.md) 
 Day 2 | [class-02](class-02.md) 
-Day 3 | [class-x]() 
+Day 3 | [class-03](class-03.md) 
 Day 4 | [class-x]()
 Day 5 | [class-x]() 
 Day 6 | [class-x]() 
