@@ -22,4 +22,4 @@ Day 13 | [class-13](class-13.md)
 Day 14 | [class-14](class-14.md) 
 Day 15 | [class-15](class-15.md) 
 
-##### [Go Back Home](README.md)
+##### [Go Back Home](./../README.md)
