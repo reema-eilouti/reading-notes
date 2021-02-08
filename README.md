@@ -1,6 +1,6 @@
 # My Reading Notes
 
-During the process of making this repo I learned the basics of writing MD files.
+During the process of building this repo I learned the basics of writing MD files.
 ~ Practicing Markdown by writing summaries mainly about HTML, CSS and JavaScript.    
 
 ## Table of Contents
