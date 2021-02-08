@@ -24,6 +24,6 @@ git push
 `git pull`
 
 found this while reading online and it made me laugh out loud :D
-![In_case_of_fire_git_push_first](In_case_of_fire_git_push_first.jpg)
+![In_case_of_fire_git_push_first](../images/In_case_of_fire_git_push_first.jpgIn_case_of_fire_git_push_first.jpg)
 
 ##### [Go Back](code_101_and_102_reading_notes.md)
