@@ -4,7 +4,7 @@
 
 ### HTML Forms  
 
-- Whenever you want to c XX ollect information from visitors you will need a form, which lives inside a `<form>` element.  
+- Whenever you want to collect information from visitors you will need a form, which lives inside a `<form>` element.  
   
 - Information from a form is sent in **name/value** pairs.  
   
