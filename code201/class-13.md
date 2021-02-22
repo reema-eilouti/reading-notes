@@ -25,7 +25,7 @@ localStorage.setItem("lastname", "Smith");
 
 // Retrieve
 document.getElementById("result").innerHTML = localStorage.getItem("lastname");
-```  
+``` 
 
 - Same example written in an another way:
 ```
@@ -33,7 +33,7 @@ document.getElementById("result").innerHTML = localStorage.getItem("lastname");
 localStorage.lastname = "Smith";
 // Retrieve
 document.getElementById("result").innerHTML = localStorage.lastname;
-```  
+``` 
 
 - The syntax for removing the "lastname" localStorage item is as follows:  
 `localStorage.removeItem("lastname");`  
