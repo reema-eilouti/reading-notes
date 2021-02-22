@@ -19,11 +19,9 @@
 div.a {
   transform: rotate(20deg);
 }
-
 div.b {
   transform: skewY(20deg);
 }
-
 div.c {
   transform: scaleY(1.5);
 }
@@ -44,7 +42,6 @@ div {
   width: 100px;
   transition: width 2s;
 }
-
 div:hover {
   width: 300px;
 }
