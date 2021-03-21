@@ -14,13 +14,11 @@
     - Basic syntax is: `$(selector).action()`
 
 - **jQuery** uses **CSS** syntax to select elements.
+  
 ```
 $(this).hide() // hides the current element.
-
 $("p").hide() // hides all <p> elements.
-
 $(".test").hide() // hides all elements with class="test".
-
 $("#test").hide() // hides the element with id="test".
 ```
 
@@ -31,11 +29,9 @@ $("#test").hide() // hides the element with id="test".
 $("#p1").mouseenter(function(){
   alert("You entered p1!");
 });
-
 $("#p1").mouseleave(function(){
   alert("Bye! You now leave p1!");
 });
-
 $("p").on("click", function(){
   $(this).hide();
 });
