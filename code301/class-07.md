@@ -14,4 +14,20 @@
     - REST is read using **JSON** *(JavaScript Object Notation)*. 
     - One of these rules is that the API should be designed in a way that is easy to use and will make sense for developers.
 
+- **SuperAgent:**
+  - **SuperAgent** is light-weight progressive **ajax** **API** crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with **Node.js**!
+
+- **API Types:**
+  - **Web APIs:**
+    - Open APIs
+    - Internal APIs
+    - Partner APIs
+    - Composite APIs
+
+  - **API Architectures and Protocols:**
+    - REST
+    - JSON-RPC and XML-RPC
+    - SOAP
+
+
 ##### [Go Back](code_301_reading_notes.md)
