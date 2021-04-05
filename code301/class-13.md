@@ -23,4 +23,12 @@
       - The **`POST`** method is the method the browser uses to talk to the server when asking for a response that takes into account the data provided in the body of the HTTP request.
         - When the form is submitted using the **POST** method, you get no data appended to the URL.
 
+
+- **Other `form` attributes:**
+    - **`name`** : The form's name when sent to the server. Useful when multiple forms are present on the same web page.
+    - **`autocomplete`** : Determines if the browser can autocomplete all the form's controls.
+    - **`target`** : Defines in which tab or window the clicked link will show up.
+    - **`enctype`** : Defines the media type of the information sent to the server. Only works if the method is post.
+    - **`novalidate`** : Tells the browser to not validate the form on submission. No value required. 
+
 ##### [Go Back](code_301_reading_notes.md)
