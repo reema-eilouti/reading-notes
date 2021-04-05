@@ -25,13 +25,15 @@
 - 
 ```
 <body>
-        <div class="container">
-            <%- include('partials/navbar') %>
-                <h1>All about Node</h1>
-                <p class="lead">Check out our articles below!</p>
-            </div>        
-            <%- include('partials/footer') %>
-        </div>
+<header>
+<% include ./base/header %> 
+</header>
+<main>
+<h1> Other mark up here </h1>
+</main>
+<footer>
+<% include ./base/footer %>
+</footer>
 </body> 
 ```
 ##### [Go Back](code_301_reading_notes.md)
