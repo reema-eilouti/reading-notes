@@ -20,20 +20,12 @@
   - **Example**: `<%- include('user/show'); %>`
 
 - Use the raw output tag **(`<%-`)** with your `include` to avoid *double-escaping* the **HTML** output.
+    - The `<%- %>` tags allow us to output the unescaped content onto the page *(notice the -)*. 
+    - This is important when using the `include()` statement since you don’t want **EJS** to escape your **HTML** characters like ‘`<`’, ‘`>`’.
 
-- **Example on embedding the `include` in the HTML :**
-- 
-```
-<body>
-<header>
-<% include ./base/header %> 
-</header>
-<main>
-<h1> Other mark up here </h1>
-</main>
-<footer>
-<% include ./base/footer %>
-</footer>
-</body> 
-```
+- In **EJS**, any **JavaScript** or *non-HTML* syntax you include in your templates is always surrounded by `<% %>` delimiters.
+
+- You can create partials for the **_navbar_** HTML code or the **_footer_** or any part of your template that you keep writing for more than one web page.
+
+
 ##### [Go Back](code_301_reading_notes.md)
