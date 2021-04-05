@@ -25,9 +25,7 @@
 ```
 <body>
         <div class="container">
-
             <%- include('partials/navbar') %>
-
             <div class="jumbotron">
                 <h1>All about Node</h1>
                 <p class="lead">Check out our articles below!</p>
@@ -40,9 +38,7 @@
                     </div>
                 </div>
             </div>
-
             <%- include('partials/footer') %>
-
         </div>
     </body>    
 ```
