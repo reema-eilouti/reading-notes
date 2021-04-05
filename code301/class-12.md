@@ -27,19 +27,11 @@
 <body>
         <div class="container">
             <%- include('partials/navbar') %>
-            <div class="jumbotron">
                 <h1>All about Node</h1>
                 <p class="lead">Check out our articles below!</p>
-            </div>            <div class="row">
-                <div class="col-lg-12">
-                    <div class="list-group">
-                      <!-- loop over blog posts and render them -->
-                      LIST_OF_POSTS
-                    </div>
-                </div>
-            </div>
+            </div>        
             <%- include('partials/footer') %>
         </div>
-    </body> 
+</body> 
 ```
 ##### [Go Back](code_301_reading_notes.md)
