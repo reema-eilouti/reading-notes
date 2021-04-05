@@ -22,6 +22,7 @@
 - Use the raw output tag **(`<%-`)** with your `include` to avoid *double-escaping* the **HTML** output.
 
 - **Example on embedding the `include` in the HTML :**
+- 
 ```
 <body>
         <div class="container">
@@ -29,8 +30,7 @@
             <div class="jumbotron">
                 <h1>All about Node</h1>
                 <p class="lead">Check out our articles below!</p>
-            </div>            
-            <div class="row">
+            </div>            <div class="row">
                 <div class="col-lg-12">
                     <div class="list-group">
                       <!-- loop over blog posts and render them -->
@@ -40,6 +40,6 @@
             </div>
             <%- include('partials/footer') %>
         </div>
-    </body>    
+    </body> 
 ```
 ##### [Go Back](code_301_reading_notes.md)
