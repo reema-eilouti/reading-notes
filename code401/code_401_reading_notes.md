@@ -40,7 +40,8 @@ Day 37 | [class-37](class37.md)
 Day 38 | [class-38](class38.md) 
 Day 39 | [class-39](class39.md) 
 Day 40 | [class-40](class40.md) 
-
+Day 41 | [class-41](class41.md) 
+Day 42 | [class-42](class42.md) 
 
 
 ##### [Go Back Home](./../README.md)

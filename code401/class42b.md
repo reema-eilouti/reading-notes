@@ -1,6 +1,6 @@
-# Read : 41
+# Read : 42 b
 
-## React 4
+## Ethics in Tech
 
 
 ##### [Go Back](code_401_reading_notes.md)
